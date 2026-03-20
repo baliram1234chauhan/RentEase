@@ -14,7 +14,7 @@
 //       <Stack.Screen name="upload" />
 //       <Stack.Screen name="details/[id]" />
 //     </Stack>
-//   );
+//   
 // }
 
 
